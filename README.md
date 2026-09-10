@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="Images/SuperStore%20Sales%20Dashboard%20Banner.png" width="100%">
+  <img src="https://github.com/sabbirakash/SuperStore-Sales-Power-BI-Dashboard-Project/blob/main/Images/SuperStore%20Sales%20Banner.png" width="100%">
 </p>
 
 ---
@@ -35,11 +35,11 @@ This project presents an **interactive Power BI dashboard** built on **two years
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Images/Screenshot%20Dashboard%20Light.png" alt="SuperStore Sales Dashboard – Main View" width="100%">
+  <img src="https://github.com/sabbirakash/SuperStore-Sales-Power-BI-Dashboard-Project/blob/main/Images/SuperStore%20Sales%20-%20Power%20BI%20-Dashboard_1.png" alt="SuperStore Sales Dashboard – Main View" width="100%">
 </p>
 
 <p align="center">
-  <img src="Images/Screenshot%20Dashboard%20Forecast.png" alt="SuperStore Sales Forecast – 15 Days" width="100%">
+  <img src="https://github.com/sabbirakash/SuperStore-Sales-Power-BI-Dashboard-Project/blob/main/Images/SuperStore%20Sales%20-%20Power%20BI%20-Dashboard_2.png" alt="SuperStore Sales Forecast – 15 Days" width="100%">
 </p>
 
 ---
